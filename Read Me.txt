@@ -1,0 +1,22 @@
+
+ Requirements 
+
+  Python 3.7.3
+  Tensorflow  2.8.0 (if its not compatible, you have to downgrade it to the earlier versions)
+  Numpy    1.21.5
+  Open cv 
+  imutils   0.5.4
+  keras.	2.8.0
+  face_recognition 
+  
+  
+  
+Can be installed via the command prompt "pip install .."
+
+Alternatively, you can use the Anaconda version 3  to install the libraries and their dependencies. 
+Again the Anaconda navigator might need to be downgraded to version 1.9.7 inorder to execute the python scripts.
+
+If at all you encounter any problem with open cv, kindly specify the version and start by installing its 'contrib', but it must work;
+            opencv-contrib-python              4.5.5.64
+            opencv-python-headless             4.2.0.34  
+			
